@@ -6,9 +6,9 @@ Blind-X is a team dedicated to building a better society through creative techno
 
 # 저장소 클론
 
-'''bash
+```bash
 git clone https://github.com/robot-is-my-life/BLIND_X.git
-
+```
 cd BLIND_X
 
 
