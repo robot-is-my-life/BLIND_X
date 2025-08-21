@@ -10,10 +10,10 @@ git clone https://github.com/robot-is-my-life/BLIND_X.git
 ```
 # how to start
 아두이노 IDE를 사용하여 BLIND_X/src_mcu/vibe_2_motor_loadcell.ino 파일을 Arduino 보드(Uno,Mega 호환가능)에 업로드하여 사용 
-아래의 2가지 단계로 순차적으로 실행
+아래의 단계로 순차적으로 실행
 1. 무게 측정 단계
 2. 진동 패턴 출력 단계
-3. 다시 대기상태 돌입
+
 
 # calibration
 정확한 무게 측정을 위해 calibration 해주는 과정이 필요함.
