@@ -5,7 +5,9 @@ Blind-X is a team dedicated to building a better society through creative techno
 ## 📦 설치 방법
 
 # 저장소 클론
+''bash
 git clone https://github.com/robot-is-my-life/BLIND_X.git
+
 cd BLIND_X
 
 
