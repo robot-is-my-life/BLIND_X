@@ -2,15 +2,20 @@
 Blind-X is a team dedicated to building a better society through creative technology.
 
 ---
-## 📦 설치 방법
+## How to install
 
-# 저장소 클론
-
+# download source code
 ```bash
 git clone https://github.com/robot-is-my-life/BLIND_X.git
 ```
-cd BLIND_X
+# how to install
+아두이노 IDE를 사용하여 BLIND_X/src_mcu/vibe_2_motor_loadcell.ino 파일을 Arduino 보드(Uno,Mega 호환가능)에 업로드하여 사용 
 
+# calibration
+정확한 무게 측정을 위해 calibration 해주는 과정이 필요함.
+
+ 1. BLIND_X/src_mcu/vibe_2_motor_loadcell.ino
+ BLIND_X/src_mcu/vibe_2_motor_loadcell.ino
 
 ---
 
