@@ -1,4 +1,5 @@
 #include "HX711.h"
+#define ISCALIB 0
 int read_scale() 
 {
 
@@ -22,8 +23,12 @@ int read_scale()
       i = 0;
       return 1;
     }
-    //Serial.print("HX711 reading: ");
-    //Serial.println(reading);
+    if (ISCALIB)
+    {
+      Serial.print("HX711 reading: ");
+      Serial.println(reading);  
+    }
+    
   } 
   else 
   {
